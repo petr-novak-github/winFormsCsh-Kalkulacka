@@ -1,0 +1,12 @@
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\Aplikace\obj\Debug\Aplikace.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\Aplikace\obj\Debug\Aplikace.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\Aplikace\bin\Debug\Aplikace.exe.config
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\Aplikace\bin\Debug\Aplikace.exe
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\Aplikace\bin\Debug\Aplikace.pdb
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\Aplikace\obj\Debug\Aplikace.csproj.CopyComplete
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\Aplikace\obj\Debug\Aplikace.exe
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\Aplikace\obj\Debug\Aplikace.pdb
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\Aplikace\bin\Debug\GUI.dll
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\Aplikace\bin\Debug\Knihovna.dll
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\Aplikace\bin\Debug\GUI.pdb
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\Aplikace\bin\Debug\Knihovna.pdb

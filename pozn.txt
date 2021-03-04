@@ -1,0 +1,33 @@
+1154
+
+kdyz uz jednou vytvorim 
+
+private void textBox1_TextChanged(object sender, EventArgs e) {}
+
+tak uz ji nemuzu smazat???
+musim tam nechat aspon prazdnou metodu??
+jinak mi to haze chybu
+
+jo protoze ve form4.Designer.cs se asi vytvorilo toto
+this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged_1);
+
+asi bych to musel smazat
+
+import formu z jineho solution
+- pravy na projekt - add existing item - najdu ho kde ho mam na disku
+- takhle se importuje i ten designer
+
+asi pridavani usingu na cely projekt 
+- pravym na referencis - add references a vybrat win forms a drawing
+- to neni asi do usingu, ale proste mam projekt typu library a form5 sem tvoril
+v projektu typu form a asi se to lisi tema referencema
+- proste to haze errory tak pridam ty reference ktere to haze v tech errorech
+
+- abych mohl pouzivat using ... aby mi to naseptavala, tak to musi mit ten projekt v referencich 
+- takze do projektru aplikace musim pridat referenci na GUI a pak jeste v aplikaci v program.cs 
+nacist using GUI;
+
+- pokud chci importovat instancni metodu, tak musim vytvorit instanci, nebo metodu zmenit na statickou
+- konecne vidim uziti staticke metody
+- staticka metoda se vola nazev tridy tecka  nazev metody

@@ -1,0 +1,9 @@
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\VlaknaFormCas\bin\Debug\VlaknaFormCas.exe.config
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\VlaknaFormCas\bin\Debug\VlaknaFormCas.exe
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\VlaknaFormCas\bin\Debug\VlaknaFormCas.pdb
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\VlaknaFormCas\obj\Debug\VlaknaFormCas.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\VlaknaFormCas\obj\Debug\VlaknaFormCas.Properties.Resources.resources
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\VlaknaFormCas\obj\Debug\VlaknaFormCas.csproj.GenerateResource.cache
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\VlaknaFormCas\obj\Debug\VlaknaFormCas.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\VlaknaFormCas\obj\Debug\VlaknaFormCas.exe
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\VlaknaFormCas\obj\Debug\VlaknaFormCas.pdb

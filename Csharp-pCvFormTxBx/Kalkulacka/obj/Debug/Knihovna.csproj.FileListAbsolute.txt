@@ -1,0 +1,6 @@
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\Kalkulacka\obj\Debug\Knihovna.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\Kalkulacka\obj\Debug\Knihovna.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\Kalkulacka\bin\Debug\Knihovna.dll
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\Kalkulacka\bin\Debug\Knihovna.pdb
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\Kalkulacka\obj\Debug\Knihovna.dll
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\Kalkulacka\obj\Debug\Knihovna.pdb

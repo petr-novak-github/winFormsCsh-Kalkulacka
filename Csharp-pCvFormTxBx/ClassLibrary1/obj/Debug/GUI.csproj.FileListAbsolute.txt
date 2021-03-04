@@ -1,0 +1,11 @@
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\ClassLibrary1\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\ClassLibrary1\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\ClassLibrary1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\ClassLibrary1\obj\Debug\GUI.Form5.resources
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\ClassLibrary1\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\ClassLibrary1\bin\Debug\GUI.dll
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\ClassLibrary1\bin\Debug\GUI.pdb
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\ClassLibrary1\bin\Debug\Knihovna.dll
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\ClassLibrary1\bin\Debug\Knihovna.pdb
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\ClassLibrary1\obj\Debug\GUI.dll
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\Csharp-pCvFormTxBx\ClassLibrary1\obj\Debug\GUI.pdb

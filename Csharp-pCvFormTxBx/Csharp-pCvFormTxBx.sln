@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "ClassLibrary1\GUI.csproj", "{9A8D10C9-8718-48A7-BD88-8CBBE6A75D61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplikace", "Aplikace\Aplikace.csproj", "{CE1F16CD-01D0-4D03-97BF-FA6BAD5286D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knihovna", "Kalkulacka\Knihovna.csproj", "{AB4AA3F9-40AC-43AA-8F41-2104B05F6820}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A8D10C9-8718-48A7-BD88-8CBBE6A75D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A8D10C9-8718-48A7-BD88-8CBBE6A75D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A8D10C9-8718-48A7-BD88-8CBBE6A75D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A8D10C9-8718-48A7-BD88-8CBBE6A75D61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE1F16CD-01D0-4D03-97BF-FA6BAD5286D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1F16CD-01D0-4D03-97BF-FA6BAD5286D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1F16CD-01D0-4D03-97BF-FA6BAD5286D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1F16CD-01D0-4D03-97BF-FA6BAD5286D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB4AA3F9-40AC-43AA-8F41-2104B05F6820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB4AA3F9-40AC-43AA-8F41-2104B05F6820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB4AA3F9-40AC-43AA-8F41-2104B05F6820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB4AA3F9-40AC-43AA-8F41-2104B05F6820}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BF7E17D-D0EE-4C86-A138-173E1AEF5E1C}
+	EndGlobalSection
+EndGlobal

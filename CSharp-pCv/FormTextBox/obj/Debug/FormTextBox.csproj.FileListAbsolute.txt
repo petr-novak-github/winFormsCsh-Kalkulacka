@@ -1,0 +1,14 @@
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\FormTextBox\bin\Debug\FormTextBox.exe.config
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\FormTextBox\bin\Debug\FormTextBox.exe
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\FormTextBox\bin\Debug\FormTextBox.pdb
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\FormTextBox\obj\Debug\FormTextBox.Form1.resources
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\FormTextBox\obj\Debug\FormTextBox.Properties.Resources.resources
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\FormTextBox\obj\Debug\FormTextBox.csproj.GenerateResource.cache
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\FormTextBox\obj\Debug\FormTextBox.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\FormTextBox\obj\Debug\FormTextBox.exe
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\FormTextBox\obj\Debug\FormTextBox.pdb
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\FormTextBox\obj\Debug\FormTextBox.Form2.resources
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\FormTextBox\obj\Debug\FormTextBox.Form3.resources
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\FormTextBox\obj\Debug\FormTextBox.Form4.resources
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\FormTextBox\obj\Debug\FormTextBox.Form5.resources
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\FormTextBox\obj\Debug\FormTextBox.Form6.resources

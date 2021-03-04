@@ -1,0 +1,8 @@
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\VlaknaTrideni\bin\Debug\VlaknaTrideni.exe.config
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\VlaknaTrideni\bin\Debug\VlaknaTrideni.exe
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\VlaknaTrideni\bin\Debug\VlaknaTrideni.pdb
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\VlaknaTrideni\obj\Debug\VlaknaTrideni.Properties.Resources.resources
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\VlaknaTrideni\obj\Debug\VlaknaTrideni.csproj.GenerateResource.cache
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\VlaknaTrideni\obj\Debug\VlaknaTrideni.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\VlaknaTrideni\obj\Debug\VlaknaTrideni.exe
+C:\Users\petr8\Desktop\cSharpRekvalifikace-pokrocily\07-ucim-se-2021-03-04\stuff\CSharp-pCv\VlaknaTrideni\obj\Debug\VlaknaTrideni.pdb
